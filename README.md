@@ -1,1 +1,1 @@
-# private-messenger
+# private-messenger server
